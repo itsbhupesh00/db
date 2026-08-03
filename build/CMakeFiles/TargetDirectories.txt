@@ -1,0 +1,3 @@
+/mnt/c/Users/user/Desktop/project/database/build/CMakeFiles/BinaryDB.dir
+/mnt/c/Users/user/Desktop/project/database/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Desktop/project/database/build/CMakeFiles/rebuild_cache.dir
