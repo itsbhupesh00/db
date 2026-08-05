@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/BinaryDB.dir/link.d CMakeFiles/BinaryDB.dir/src/main.cpp.o CMakeFiles/BinaryDB.dir/src/app/cli.cpp.o CMakeFiles/BinaryDB.dir/src/database/database.cpp.o -o binarydb

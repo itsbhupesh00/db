@@ -24,7 +24,7 @@ void CLI::run()
         if (input == "exit")
             break;
 
-        if (input == "clear" || input == "cls")
+        if (input == "clear" || input == "cls" || input == "anil")
         {
             clearScreen();
             continue;
